@@ -94,7 +94,13 @@
         <github> k4le0</github>
         <group> KrZZIs3011Io</group>
 </student>
-
+<student>
+	<firstname>Pawel</firstname>
+	<lastname>Lubecki</lastname>
+	<email>plubecki@poczta.onet.pl</email>
+	<github>plubecki</github>
+	<group>KrDZIs3011Io</group>
+</student>
 
 
 </students>
